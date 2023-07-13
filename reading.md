@@ -1,7 +1,7 @@
 # Currently Reading
 - Computer Networking: A Top-Down Approach
 - Distributed Systems with Node.js 
-- Computer Software: A Programmer's Perspective
+- Computer Organization and Design: The Hardware/Software Interface
 - Real World OCaml
 
 ## Side readings
