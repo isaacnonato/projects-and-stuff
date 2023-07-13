@@ -1,1 +1,1 @@
-Where I will put projects n stuff lol
+repo to track my projects.
