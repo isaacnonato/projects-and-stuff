@@ -7,6 +7,7 @@
 ## Planning to read
 
 - Beej's Guide to Network Programming
+- Designing Data-Intensive Applications 
 
 ## Side readings
 * Luotunen 1998 (networking book)
