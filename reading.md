@@ -1,12 +1,14 @@
 # Currently Reading
-- Computer Networking: A Top-Down Approach
-
-## Planning to read
 - Beej's Guide to Network Programming
+- [Computer Networking - a Systems Approach](https://book.systemsapproach.org/)
+## Planning to read
 - Designing Data-Intensive Applications 
 
 ## Finished
 - Distributed Systems with Node.js 
+
+## Dropped (permanently)
+- Computer Networking: A Top-Down Approach
 
 ## Dropped (temporarily)
 - Real World OCaml
