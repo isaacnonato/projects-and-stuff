@@ -1,6 +1,7 @@
 # Currently Reading
 - Beej's Guide to Network Programming
 - [Computer Networking - a Systems Approach](https://book.systemsapproach.org/)
+- Modern C
 ## Planning to read
 - Designing Data-Intensive Applications 
 
